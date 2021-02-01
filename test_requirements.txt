@@ -34,7 +34,7 @@ PyVISA-sim==0.4.0
 PyYAML==5.4.1
 requests==2.25.1
 six==1.15.0
-smmap==3.0.5
+smmap==4.0.0
 sortedcontainers==2.3.0
 stringparser==0.5
 toml==0.10.2
